@@ -1,2 +1,2 @@
 # CP
-Solutions for problems on various competitive progrmming sites  
+Solutions for problems on various competitive progrmming sites.  
